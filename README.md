@@ -1,2 +1,2 @@
 # SimpleEmployeeApplication
-A simeple console application written in Java. That demonstrates understasnding of important object oriented programming principles.
+A simple console application written in Java. That demonstrates understandding of important object oriented programming principles.
